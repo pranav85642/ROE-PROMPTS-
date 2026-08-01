@@ -142,6 +142,15 @@ Return ONLY the revised essay. No evaluation notes, no explanation, no word coun
 
 *(112 words)*
 
+
+
+
+
+Practical breakdown for your three-prompt pipeline:
+
+Prompt 1 (Generate): High. Picking a non-obvious angle and writing tight, non-generic prose benefits from the extra reasoning pass.
+Prompt 2 (Evaluate): Medium is fine here — scoring against a rubric is fairly mechanical, and you want this step fast since it's mid-pipeline.
+Prompt 3 (Revise): High again — a good rewrite still needs judgment, not just pattern-matching.
 ---
 
 ## Before the exam
