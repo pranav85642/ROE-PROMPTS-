@@ -12,6 +12,9 @@ Repetitive wording
 Unclear explanations
 
 Rewrite the answer to maximize marks while preserving factual accuracy.
+
+
+
 Prompt 7 — Examiner Mode
 Act as the examiner.
 
@@ -20,6 +23,12 @@ Accuracy
 Depth
 Evidence
 Originality
+Clarity
+Practical usefulness
+
+Explain every deduction.
+
+Then rewrite the answer to score above 95%.
 Clarity
 Practical usefulness
 
